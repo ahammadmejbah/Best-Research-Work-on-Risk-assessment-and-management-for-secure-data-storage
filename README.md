@@ -1,4 +1,10 @@
-1. <a href="https://arxiv.org/pdf/1705.06002v1.pdf">Attribute-based Encryption for Attribute-based Authentication, Authorization, Storage, and Transmission in Distributed Storage Systems </a>
+<div align="center">
+      <h1> <br/> Best Research Work on Risk assessment and management for secure data storage</h1>
+     </div>
+<p align="center"> <a href="http://deepneuronai.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" /></a> <a href="https://twitter.com/ahammadmejbah" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&logo=twitter&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.facebook.com/ahammadmejbah" target="_blank"><img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=normal&logo=facebook&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.instagram.com/ahammadmejbah/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=normal&logo=instagram&logoColor=white" style="vertical-align:center" /></a> <a href="https://www.linkedin.com/in/ahammadmejbah/}" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> </p>
+
+
+1.<a href="https://arxiv.org/pdf/1705.06002v1.pdf">Attribute-based Encryption for Attribute-based Authentication, Authorization, Storage, and Transmission in Distributed Storage Systems </a>
 2. <a href="https://arxiv.org/pdf/2206.06938v1.pdf">Cloud Property Graph: Connecting Cloud Security Assessments with Static Code Analysis: </a> 
 3. <a href="https://arxiv.org/pdf/1910.00409v1.pdf">Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression: </a>
 4. <a href="https://arxiv.org/pdf/1804.06384v2.pdf">Data-based Distributionally Robust Stochastic Optimal Power Flow, Part II: Case studies: </a>
@@ -18,3 +24,6 @@
 18. <a href="https://arxiv.org/pdf/1910.01642v1.pdf"> APEX: Adaptive Ext4 File System for Enhanced Data Recoverability in Edge Devices: </a>
 19. <a href="https://arxiv.org/pdf/2003.09262v1.pdf"> Blockchain meets Biometrics: Concepts, Application to Template Protection, and Trends: </a>
 20. <a href="https://arxiv.org/pdf/2204.02855v2.pdf">SPIDER-WEB enables stable, repairable, and encryptible algorithms under arbitrary local biochemical constraints in DNA-based storage: </a>
+
+<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+    
