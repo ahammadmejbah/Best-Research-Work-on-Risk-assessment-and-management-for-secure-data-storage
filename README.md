@@ -1,4 +1,4 @@
-1. <a href=" https://arxiv.org/pdf/1705.06002v1.pdf">Attribute-based Encryption for Attribute-based Authentication, Authorization, Storage, and Transmission in Distributed Storage Systems </a>
+1. <a href="https://arxiv.org/pdf/1705.06002v1.pdf">Attribute-based Encryption for Attribute-based Authentication, Authorization, Storage, and Transmission in Distributed Storage Systems </a>
 2. <a href="https://arxiv.org/pdf/2206.06938v1.pdf">Cloud Property Graph: Connecting Cloud Security Assessments with Static Code Analysis: </a> 
 3. <a href="https://arxiv.org/pdf/1910.00409v1.pdf">Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression: </a>
 4. <a href="https://arxiv.org/pdf/1804.06384v2.pdf">Data-based Distributionally Robust Stochastic Optimal Power Flow, Part II: Case studies: </a>
