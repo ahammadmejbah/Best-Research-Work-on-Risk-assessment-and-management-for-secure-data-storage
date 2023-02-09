@@ -12,7 +12,7 @@
 12. <a href="https://arxiv.org/pdf/1709.10412v1.pdf"> CAOS: Concurrent-Access Obfuscated Store: </a>
 13. <a href="https://arxiv.org/pdf/2004.00773v1.pdf"> A Blockchain-based Decentralized Federated Learning Framework with Committee Consensus: </a>
 14. <a href="https://arxiv.org/pdf/1805.01563v2.pdf"> IBBE-SGX: Cryptographic Group Access Control using Trusted Execution Environments: </a>
-15. <a href=" https://arxiv.org/pdf/1911.00248v1.pdf"> Privacy Protection in Distributed Fingerprint-based Authentication</a>
+15. <a href="https://arxiv.org/pdf/1911.00248v1.pdf"> Privacy Protection in Distributed Fingerprint-based Authentication</a>
 16. <a href="https://arxiv.org/pdf/1901.06733v1.pdf"> Ring Oscillator and its application as Physical Unclonable Function (PUF) for Password Management: </a>
 17. <a href="https://arxiv.org/pdf/1907.07303v2.pdf"> Effcient logging and querying for Blockchain-based cross-site genomic dataset access audit: </a>
 18. <a href="https://arxiv.org/pdf/1910.01642v1.pdf"> APEX: Adaptive Ext4 File System for Enhanced Data Recoverability in Edge Devices: </a>
